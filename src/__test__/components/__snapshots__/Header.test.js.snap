@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> spnapshot Check the UI of <Header /> 1`] = `
+<header
+  className="sc-AykKC gcJED"
+>
+  <img
+    alt="Control"
+    src="\\"logo.png\\""
+  />
+</header>
+`;

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListOfBranchOffices /> spnapshot Check the UI of <ListOfBranchOffices /> 1`] = `
+<section
+  className="sc-AykKC eJOrmU"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="columns is-centered is-mobile"
+    >
+      <div
+        className="column is-10 is-12-mobile"
+      >
+        <div
+          className="columns is-multiline is-mobile"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
