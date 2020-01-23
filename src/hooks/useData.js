@@ -18,7 +18,7 @@ export const useData = () => {
   const [isResults, setIsResults] = useState(true)
 
   const _handleChange = (e) => {
-    setQuery(e.target.value)
+    setQuery(e.target.value.toLowerCase())
   }
 
   const sum = nums => {

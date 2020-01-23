@@ -7,7 +7,7 @@
     "now-build": "npm run build",
     "build": "webpack --config ./webpack.config.js --mode production",
     "lint": "standard",
-    "dev": "webpack-dev-server",
+    "dev": "webpack-dev-server --config ./webpack.dev.config.js",
     "build:dll": "webpack --config ./webpack.dll.config.js --mode production",
     "test": "jest",
     "test:watch": "jest --watch",
