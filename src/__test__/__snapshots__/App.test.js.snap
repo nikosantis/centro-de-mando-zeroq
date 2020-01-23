@@ -17,16 +17,16 @@ Array [
       className="container px-2"
     >
       <div
-        className="columns is-centered is-mobile is-centered-mobile"
+        className="columns is-centered is-mobile"
       >
         <div
           className="column is-10"
         >
           <div
-            className="columns is-mobile"
+            className="columns is-mobile is-tablet"
           >
             <div
-              className="column is-12-mobile is-5-tablet"
+              className="column is-12-mobile is-12-desktop is-5-widescreen"
             >
               <div
                 className="field"
@@ -84,7 +84,7 @@ Array [
           className="column is-10 is-12-mobile"
         >
           <div
-            className="columns is-multiline is-mobile"
+            className="columns is-multiline is-mobile is-desktop is-tablet"
           />
         </div>
       </div>

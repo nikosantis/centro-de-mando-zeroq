@@ -2,7 +2,7 @@
 
 exports[`<BranchOffice /> spnapshot Check the UI of <BranchOffice /> 1`] = `
 <div
-  className="column is-12-mobile is-3-tablet"
+  className="column is-12-mobile is-4-tablet is-3-widescreen"
 >
   <div
     className="card card-sucursal card-undefined"

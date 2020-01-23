@@ -14,7 +14,7 @@ exports[`<ListOfBranchOffices /> spnapshot Check the UI of <ListOfBranchOffices 
         className="column is-10 is-12-mobile"
       >
         <div
-          className="columns is-multiline is-mobile"
+          className="columns is-multiline is-mobile is-desktop is-tablet"
         />
       </div>
     </div>

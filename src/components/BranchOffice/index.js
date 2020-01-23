@@ -29,8 +29,8 @@ export const BranchOffice = ({ name, persons, duration, online }) => (
 )
 
 BranchOffice.propTypes = {
-  name: PropTypes.string.isRequired,
-  persons: PropTypes.number.isRequired,
-  duration: PropTypes.string.isRequired,
-  online: PropTypes.bool.isRequired
+  name: PropTypes.string,
+  persons: PropTypes.number,
+  duration: PropTypes.string,
+  online: PropTypes.bool
 }
