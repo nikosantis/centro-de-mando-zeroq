@@ -13,13 +13,13 @@ describe('<ListOfBranchOffices /> component', () => {
   })
 })
 
-describe('Data props render', () => {
+describe('ListOfBranchOffices', () => {
   const lists = mount(
     <ListOfBranchOffices>
       <BranchOffice {...defaultProps} />
     </ListOfBranchOffices>
   )
-  it('Should have a {children}', () => {
+  it('Should have a children named Servipag Líder Arica with 12 people and 2:55 duration', () => {
     expect(lists.children.length).toEqual(1)
     expect(lists.text()).toContain('Servipag Líder Arica')
     expect(lists.text()).toContain('12')
